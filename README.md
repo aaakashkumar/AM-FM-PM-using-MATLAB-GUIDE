@@ -61,7 +61,7 @@ where
 
 Putting the value ჶ<sub>i</sub> in equation (iii) we get,
 
-S<sub>PM<sub> = A<sub>c</sub>cos(ω<sub>c</sub>t + k<sub>p</sub>𝓍(t))
+S<sub>PM</sub> = A<sub>c</sub>cos(ω<sub>c</sub>t + k<sub>p</sub>𝓍(t))
 
 = A<sub>c</sub>cos(ω<sub>c</sub>t + k<sub>p</sub>A<sub>m</sub>cosω<sub>m</sub>t)
 
